@@ -1,0 +1,62 @@
+{
+  "CuriosityAndIntrigue": {
+    "TeaseSurprisingFact": {
+      "Description": "Develop hooks that tease a little-known or surprising fact, holding back key details to maintain suspense.",
+      "Psychology": "Leverages human curiosity and the 'information gap theory', where a gap in knowledge creates a psychological need for closure."
+    },
+    "CounterintuitiveScenarios": {
+      "Description": "Create scenarios or questions that seem counterintuitive or challenge common knowledge.",
+      "Psychology": "Engages cognitive dissonance, prompting viewers to resolve the conflict between their beliefs and the new information."
+    }
+  },
+  "ChallengeAndEngagement": {
+    "InteractiveChallenges": {
+      "Description": "Use interactive challenges where viewers can guess the outcome or participate in some way.",
+      "Psychology": "Encourages active engagement and participation, capitalizing on the human tendency towards competition and achievement."
+    },
+    "TrendingTopicComparison": {
+      "Description": "Compare two popular or trending topics, asking viewers to pick a side or guess which will prevail.",
+      "Psychology": "Triggers social comparison and tribalism, where viewers align with one option over another, fostering engagement and discussion."
+    }
+  },
+  "PersonalInsightAndOpinion": {
+    "UniquePersonalExperiences": {
+      "Description": "Share unique personal experiences or controversial opinions that differ from mainstream views.",
+      "Psychology": "Builds a personal connection and trust, leveraging the power of storytelling and the human preference for authentic, relatable content."
+    },
+    "AddressingCommonMisconceptions": {
+      "Description": "Address common misconceptions or frequently debated topics with unique insight.",
+      "Psychology": "Fulfills the desire for cognitive closure and understanding, while also providing a sense of enlightenment and correction of false beliefs."
+    }
+  },
+  "HumorAndRelatability": {
+    "EverydaySituationsWithHumor": {
+      "Description": "Use everyday situations or problems and add a humorous twist to them.",
+      "Psychology": "Exploits the relief theory of humor, which alleviates stress and creates a bond between the creator and the viewer through shared laughter."
+    },
+    "IncorporateTrendingMemes": {
+      "Description": "Incorporate trending memes or jokes with a fresh angle relevant to the content.",
+      "Psychology": "Utilizes the in-group effect, where shared knowledge of cultural trends fosters a sense of belonging and shared identity."
+    }
+  },
+  "PracticalAdviceAndSolutions": {
+    "ActionableTips": {
+      "Description": "Offer quick, actionable tips that viewers can implement immediately.",
+      "Psychology": "Appeals to the human need for competence and mastery, providing viewers with a sense of efficacy and control."
+    },
+    "ProblemAndSolution": {
+      "Description": "Introduce a problem and immediately follow it with a unique solution or hack.",
+      "Psychology": "Activates the problem-solving instinct, satisfying the innate human drive to fix issues and improve efficiency."
+    }
+  },
+  "EndorsementAndRecommendation": {
+    "PersonalNarrativeForProducts": {
+      "Description": "Create a narrative around the significant impact of a product or service, making it personal.",
+      "Psychology": "Leverages narrative persuasion, where storytelling increases the persuasiveness and memorability of the message."
+    },
+    "ComparativeProductReviews": {
+      "Description": "Compare products or services informatively, providing clear value to the viewer.",
+      "Psychology": "Engages the heuristic of social proof, where viewers are influenced by others' experiences and endorsements."
+    }
+  }
+}
